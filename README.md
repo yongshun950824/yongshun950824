@@ -116,10 +116,12 @@ Key Highlights:
 
 ---
 
-## 🌐 GitHub Statistics
+## 🌐 Statistics
 
 <p float="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yongshun950824&hide_border=true&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" /> 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yongshun950824&layout=compact&hide_border=true&theme=tokyonight"/>
- 
+  <img src="https://stackoverflow.com/users/flair/8017690.png?theme=dark" width="208" height="58" alt="profile for Yong Shun at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Yong Shun at Stack Overflow, Q&amp;A for professional and enthusiast programmers">
+</p>
+<p float="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yongshun950824&hide_border=true&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" /> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yongshun950824&layout=compact&hide_border=true&theme=tokyonight"/>
 </p>
