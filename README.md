@@ -26,10 +26,10 @@ Here are some ideas to get you started:
     <img alt="Stack Overflow reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/8017690?color=orange&label=Stackoverflow&logo=stackoverflow&logoColor=orange&style=social" height="27.996" />
   </a>
   <a href="https://stackoverflow.com/users/8017690/yong-shun?tab=answers">
-    <img src="https://img.shields.io/badge/Answers-2100+-success" alt="Answers" height="27.996" />
+    <img src="https://img.shields.io/badge/Answers-2300+-success" alt="Answers" height="27.996" />
   </a>
   <a href="https://stackoverflow.com/users/8017690/yong-shun">
-    <img src="https://img.shields.io/badge/Impact-1.5M-red" height="27.996" />
+    <img src="https://img.shields.io/badge/Impact-1.8M-red" height="27.996" />
   </a>
 </p>
 
@@ -70,7 +70,7 @@ Key Highlights:
 **Description**: Robust RESTful API for managing policy lifecycles for insurers.  
 **Tech Stack**: ASP.NET Core Web API (.NET Core 3.1), PostgreSQL.  
 - Provide complete policy-insured features from searching product plans, making quotations, purchasing policies, issuing policies, reporting, etc.
-- Developed and optimized key modules (reporting).
+- Develops and optimizes key modules (reporting).
 - Automated deployment pipelines using GitHub actions, and Kubernetes.
 
 ---
@@ -84,10 +84,10 @@ Key Highlights:
 ---
 
 ### 3. **E-commerce System**
-**Description**: Built an e-commerce platform to handle daily transactions, and reporting.  
+**Description**: Built an e-commerce platform to process daily transactions and generate reports.  
 **Tech Stack**: 
-  * Frontend: ASP.NET, .Net MVC, HTML, Javascript, JQuery, CSS Bootstrap
-  * Backend: .NET Web API 2, .Net Core Web API, Entity Framework, LINQ
+  * Frontend: ASP.NET, .NET MVC, HTML, JavaScript, JQuery, CSS, Bootstrap
+  * Backend: .NET Web API 2, .NET Core Web API, Entity Framework, LINQ
   * Database: MSSQL, MongoDB, LiteDB  
 
 - Build and enhance the existing system according to the request from the product owner.  
@@ -95,6 +95,7 @@ Key Highlights:
 ---
 
 ## 📜 Certifications
+- GitHub Foundations, Nov 2025
 - MongoDB Associate Developer, Jun 2024
 - Microsoft Certified: Azure Cosmos DB Developer Specialty, Dec 2022
 - Microsoft Certified: DevOps Engineer Expert, May 2022
