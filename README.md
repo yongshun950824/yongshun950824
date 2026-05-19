@@ -95,6 +95,7 @@ Key Highlights:
 ---
 
 ## 📜 Certifications
+- GitHub Actions, Mar 2026
 - GitHub Foundations, Nov 2025
 - MongoDB Associate Developer, Jun 2024
 - Microsoft Certified: Azure Cosmos DB Developer Specialty, Dec 2022
